@@ -1,0 +1,3 @@
+include ':adblocker'
+include ':app'
+rootProject.name = "WebView Adblock"
