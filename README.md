@@ -59,3 +59,6 @@ private class Browser_home extends WebViewClient {
 
     }
 ```
+
+
+Now you can run your app to see if the ads are blocked. You can always use other webview features and add fetures to the webview.
