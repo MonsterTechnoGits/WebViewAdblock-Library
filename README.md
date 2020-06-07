@@ -22,7 +22,7 @@ Android webview Adblocker is a simple library to block ads in webview. this code
  
  ```gradle
  	dependencies {
-	        implementation 'com.github.MonsterTechnoGits:WebViewAdblock:Tag'
+	        implementation 'com.github.MonsterTechnoGits:WebViewAdblock:1.0'
 	}
 ```
 	
