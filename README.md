@@ -2,6 +2,8 @@
 
 Android webview Adblocker is a simple library to block ads in webview. this code is basicaly stop the ads and remove the html from it and render it again. 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ## How do I use it?
 ### Step 1
 
