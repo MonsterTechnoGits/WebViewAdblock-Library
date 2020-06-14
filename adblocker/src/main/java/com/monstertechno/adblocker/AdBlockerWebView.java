@@ -36,6 +36,7 @@ public class AdBlockerWebView {
         public void initializeWebView(WebView mWebView) {
             WebSettings webSettings = mWebView.getSettings();
             webSettings.setJavaScriptEnabled(true);
+            mWebView.getSettings().setCacheMode(WebSettings.LOAD_NO_CACHE);
             webSettings.setJavaScriptCanOpenWindowsAutomatically(true);
             if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB) {
                 webSettings.setDisplayZoomControls(false);
