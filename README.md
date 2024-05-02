@@ -24,7 +24,7 @@ Android webview Adblocker is a simple library to block ads in webview. this code
  
  ```gradle
  	dependencies {
-	        implementation 'com.github.MonsterTechnoGits:WebViewAdblock:1.1'
+	        implementation 'com.github.MonsterTechnoGits:WebViewAdblock:1.2'
 	}
 ```
 	
@@ -57,6 +57,17 @@ private class Browser_home extends WebViewClient {
             return AdBlockerWebView.blockAds(view,url) ? AdBlocker.createEmptyResource() :
                     super.shouldInterceptRequest(view, url);
 
+        }
+
+	@Override
+        public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest request) {
+            if (AdBlocker.isAd(request.getUrl().toString())) {
+                // Block the ad by returning true
+                return true;
+            } else {
+                // Allow regular URLs to be loaded
+                return false;
+            }
         }
 
     }
