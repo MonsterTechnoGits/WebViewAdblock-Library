@@ -2,7 +2,7 @@
 
 WebViewAdblock empowers you to effortlessly block ads within your Android WebView, ensuring an uninterrupted browsing experience. Eliminate distractions and enhance user engagement by seamlessly intercepting ad requests and removing their HTML content.
 
-![WebViewAdblock](http://www.monstertechnocodes.com/webviewAdblock.png)
+![WebViewAdblock](https://raw.githubusercontent.com/MonsterTechnoGits/WebViewAdblock-Library/master/webviewadblock.jpg)
 
 ### Simple Integration in 4 Steps
 
