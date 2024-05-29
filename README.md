@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=WebViewAdblock-Library&label=Page%20Views&pretty=true)](https://visitcount.itsvg.in)
+
 ## Discover WebViewAdblock: Your Ultimate Solution for Ad-Free Android WebView Experience
 
 WebViewAdblock empowers you to effortlessly block ads within your Android WebView, ensuring an uninterrupted browsing experience. Eliminate distractions and enhance user engagement by seamlessly intercepting ad requests and removing their HTML content.
