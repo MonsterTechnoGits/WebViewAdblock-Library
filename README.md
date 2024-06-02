@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=WebViewAdblock-Library&label=Popularity&pretty=true)]
+![](https://visitcount.itsvg.in/api?id=WebViewAdblock-Library&label=Popularity&pretty=true)
 
 ## Discover WebViewAdblock: Your Ultimate Solution for Ad-Free Android WebView Experience
 
